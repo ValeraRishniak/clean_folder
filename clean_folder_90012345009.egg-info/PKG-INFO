@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: clean-folder-90012345009
+Version: 0.0.3
+Summary: Package for sorting files in folder by file extension
+Author: Rishniak Valerii
+Author-email: ya.mihelson@ukr.net
+License: MIT
+Classifier: Programming Language :: Python :: 3
